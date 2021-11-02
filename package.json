@@ -1,0 +1,25 @@
+{
+  "name": "nodechatconsole",
+  "version": "1.0.0",
+  "description": "Basic Chat Node Console ",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "config.ini": "0.0.60",
+    "dateformat": "^4.5.1",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "install": "^0.13.0",
+    "npm": "^8.1.2",
+    "readline": "^1.3.0",
+    "repl": "^0.1.3",
+    "socket.io": "^4.1.3",
+    "socket.io-client": "^4.1.3"
+  }
+}
